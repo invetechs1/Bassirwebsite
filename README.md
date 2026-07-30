@@ -1,0 +1,3 @@
+# Bassir Technology — bootstrap
+
+Initializing repository...
